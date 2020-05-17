@@ -4,8 +4,8 @@
   justify-content: center;
   color: rgba(255, 255, 255, 0.7);
   width: 100%;
-  margin-top: 0;
   background-color: #d7d7d7;
+  margin: 0;
 }
 
 @media (max-width: 770px) {
@@ -14,5 +14,6 @@
     align-items: center;
     justify-content: center;
     width: 100%;
+    margin: 0;
   }
 }
